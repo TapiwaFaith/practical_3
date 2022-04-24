@@ -1,0 +1,13 @@
+0.7
+2020.2
+Jun 10 2021
+19:45:28
+/home/MSSFAI001/EEE4120F/Prac3/sim/testbench.v,1650636684,verilog,,,,testbench,,,,,,,,
+/home/MSSFAI001/EEE4120F/Prac3/sources/debounce.vhd,1650636541,vhdl,,,,debounce,,,,,,,,
+/home/MSSFAI001/EEE4120F/Prac3/sources/fsm.vhd,1650636541,vhdl,,,,fsm,,,,,,,,
+/home/MSSFAI001/EEE4120F/Prac3/sources/sinegen.vhd,1650800677,vhdl,,,,sinegen,,,,,,,,
+/home/MSSFAI001/EEE4120F/Prac3/sources/sinegen_demo.vhd,1650636541,vhdl,,,,sinegen_demo,,,,,,,,
+/home/MSSFAI001/practical_3/practical_3.gen/sources_1/ip/sine_high/sim/sine_high.vhd,1650638563,vhdl,,,,sine_high,,,,,,,,
+/home/MSSFAI001/practical_3/practical_3.gen/sources_1/ip/sine_low/sim/sine_low.vhd,1650743529,vhdl,,,,sine_low,,,,,,,,
+/home/MSSFAI001/practical_3/practical_3.gen/sources_1/ip/sine_mid/sim/sine_mid.vhd,1650742663,vhdl,,,,sine_mid,,,,,,,,
+/home/MSSFAI001/practical_3/practical_3.sim/sim_1/behav/xsim/glbl.v,1623370582,verilog,,,,glbl,,,,,,,,
